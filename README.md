@@ -1,3 +1,2 @@
 # BackRooms-UI
-[Check It Out!!}()
-[Click Here](https://onepunchman2718.github.io/BackRooms-UI/)
+[Check It Out!!](https://onepunchman2718.github.io/BackRooms-UI/)
